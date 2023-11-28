@@ -1,8 +1,8 @@
-import 'package:developer_view/screens/home/components/search_field.dart';
+import 'package:real_estate_app/screens/home/components/search_field.dart';
 import 'package:flutter/material.dart';
-import 'package:developer_view/screens/home/components/categories.dart';
-import 'package:developer_view/screens/home/components/custom_app_bar.dart';
-import 'package:developer_view/screens/home/components/houses.dart';
+import 'package:real_estate_app/screens/home/components/categories.dart';
+import 'package:real_estate_app/screens/home/components/custom_app_bar.dart';
+import 'package:real_estate_app/screens/home/components/houses.dart';
 
 class HomeScreen extends StatelessWidget {
   @override

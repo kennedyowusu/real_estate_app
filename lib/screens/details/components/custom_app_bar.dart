@@ -1,6 +1,6 @@
-import 'package:developer_view/constants/styles.dart';
+import 'package:real_estate_app/constants/styles.dart';
 import 'package:flutter/material.dart';
-import 'package:developer_view/constants/colors..dart';
+import 'package:real_estate_app/constants/colors..dart';
 
 class CustomAppBar extends StatelessWidget {
   @override

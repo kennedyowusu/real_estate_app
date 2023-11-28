@@ -1,4 +1,4 @@
-import 'package:developer_view/model/house.dart';
+import 'package:real_estate_app/model/house.dart';
 
 final _house1 = House(
     imageUrl: 'assets/images/house1.jpeg',

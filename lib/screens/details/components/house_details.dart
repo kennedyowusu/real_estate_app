@@ -1,8 +1,8 @@
-import 'package:developer_view/constants/styles.dart';
+import 'package:real_estate_app/constants/styles.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
-import 'package:developer_view/constants/colors..dart';
-import 'package:developer_view/model/house.dart';
+import 'package:real_estate_app/constants/colors..dart';
+import 'package:real_estate_app/model/house.dart';
 
 class HouseDetails extends StatefulWidget {
   final House house;

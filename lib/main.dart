@@ -1,4 +1,4 @@
-import 'package:developer_view/screens/welcome.dart';
+import 'package:real_estate_app/screens/welcome.dart';
 import 'package:flutter/material.dart';
 
 void main() {

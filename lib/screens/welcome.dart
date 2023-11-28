@@ -1,5 +1,5 @@
-import 'package:developer_view/constants/colors..dart';
-import 'package:developer_view/screens/home/home_screen.dart';
+import 'package:real_estate_app/constants/colors..dart';
+import 'package:real_estate_app/screens/home/home_screen.dart';
 import 'package:flutter/material.dart';
 
 class WelcomeScreen extends StatefulWidget {

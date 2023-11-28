@@ -1,4 +1,4 @@
-import 'package:developer_view/constants/styles.dart';
+import 'package:real_estate_app/constants/styles.dart';
 import 'package:flutter/material.dart';
 
 class SearchField extends StatelessWidget {
